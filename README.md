@@ -8,3 +8,10 @@
 </div>
 
 
+<h3 align="center" class="green-text">
+    <em>"Coding is not just a skill, it’s a form of art."</em>
+</h3>
+
+
+
+
