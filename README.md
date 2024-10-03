@@ -19,6 +19,9 @@
 <h4> I am currently a university student with a strong passion for acquiring new knowledge, particularly in software engineering, data science, and artificial intelligence. I am committed to enhancing my skills in these areas and consistently aim to excel in every project I undertake. With a steadfast determination to learn and adapt, I am eager to further my development and pursue a career in these innovative fields.</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haekal-rahmadyan-174506271/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haekal_rahmadyan/profilecard/?igsh=MWxscWVmYjg3enNwYw== )
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RahmadyanHaekal?t=y2DxX_kX6xK20OZSh0GMrg&s=09)
+
 
 
 
