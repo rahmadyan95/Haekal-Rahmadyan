@@ -50,3 +50,7 @@
 ![Raspy](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 
+## Stats 📈
+![rahmadyan95's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadyan95&theme=tokyonight&show_icons=true&hide_border=true)
+![rahmadyan95's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahmadyan95&theme=tokyonight&hide_border=true)
+![rahmadyan95's Stats](https://github-readme-stats.vercel.app/api?username=rahmadyan95&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
