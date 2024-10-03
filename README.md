@@ -12,6 +12,10 @@
     "Coding is not just a skill, it’s a form of art 💻🎨"
 </h3>
 
+<br>
+
+I am currently a university student with a strong passion for acquiring new knowledge, particularly in software engineering, data science, and artificial intelligence. I am committed to enhancing my skills in these areas and consistently aim to excel in every project I undertake. With a steadfast determination to learn and adapt, I am eager to further my development and pursue a career in these innovative fields.
+
 
 ## Tools I Love to Use 💖
 
