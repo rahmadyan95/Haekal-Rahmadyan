@@ -55,7 +55,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadyan95&theme=tokyonight&show_icons=true&hide_border=true" alt="Top Languages">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmadyan95&theme=tokyonight&hide_border=true" alt="Streak">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahmadyan95&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats">
   </div>
 </details>
 
