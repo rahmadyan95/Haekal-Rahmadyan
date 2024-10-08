@@ -15,7 +15,6 @@
 <br>
 
 
-kontol
 
 ## Hey there! This is me 😸👋 
 
